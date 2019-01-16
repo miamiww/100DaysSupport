@@ -1,0 +1,500 @@
+11-Jan-2019 20:36:15:(9) (       watch),  watch: time out on process: analyse(1)
+11-Jan-2019 20:36:15:(9) (       watch),  watch: time out on process: analyse(1)
+11-Jan-2019 20:36:15:(9) (       watch),  watch: time out on process: analyse(1)
+11-Jan-2019 20:36:15:(9) (       watch),  watch: time out on process: analyse(1)
+11-Jan-2019 20:36:15:(9) (       watch),  watch: time out on process: analyse(1)
+11-Jan-2019 20:36:15:(9) (       watch),  watch: time out on process: analyse(1)
+11-Jan-2019 20:36:15:(9) (       watch),  watch: time out on process: analyse(1)
+11-Jan-2019 20:36:15:(9) (       watch),  watchdog: process check failure
+11-Jan-2019 20:36:15:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+11-Jan-2019 20:36:15:(9) (    pwr_fail),  power: immediate shutdown requested
+11-Jan-2019 20:36:57:(9) (       start),  EVENT LOG START UP
+11-Jan-2019 20:36:57:(6) (       start),  trimming 35 lines from event log history
+11-Jan-2019 20:36:57:(9) (       start),  integrity: 82 seconds since last update
+11-Jan-2019 20:36:57:(6) (    mon_temp),  no temperature sensor
+11-Jan-2019 20:36:57:(9) (       start),  access control list not present
+11-Jan-2019 20:36:57:(9) (       start),  software options: 0020001b
+11-Jan-2019 20:37:01:(9) (       start),  JPEG system only operates on PAL cameras.
+11-Jan-2019 20:37:02:(6) (       start),  sync set to: 525
+11-Jan-2019 20:37:02:(9) (      stream),  Platform will not support streaming video
+11-Jan-2019 20:37:02:(9) (         ves),  Software options set are not compatable with encryption or context capture
+11-Jan-2019 20:37:02:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+11-Jan-2019 20:37:02:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+11-Jan-2019 20:37:02:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+11-Jan-2019 20:37:04:(6) (       start),  Terminal #0 starting
+11-Jan-2019 20:37:04:(9) (       alert),  Alert system not enabled
+11-Jan-2019 20:37:04:(6) (         ves),  WARNING: site specific location not set
+11-Jan-2019 20:39:36:(9) (      action),  relay_request: granting to: action
+11-Jan-2019 21:04:31:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:32:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:33:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:34:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:36:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:37:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:38:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:39:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:41:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:42:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:43:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:44:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:46:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:46:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:48:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 21:04:48:(9) (       watch),  watchdog: process check failure
+11-Jan-2019 21:04:51:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+11-Jan-2019 21:04:51:(9) (    pwr_fail),  power: immediate shutdown requested
+11-Jan-2019 21:05:22:(9) (       start),  EVENT LOG START UP
+11-Jan-2019 21:05:22:(6) (       start),  trimming 35 lines from event log history
+11-Jan-2019 21:05:22:(9) (       start),  integrity: 40 seconds since last update
+11-Jan-2019 21:05:22:(6) (    mon_temp),  no temperature sensor
+11-Jan-2019 21:05:22:(9) (       start),  access control list not present
+11-Jan-2019 21:05:22:(9) (       start),  software options: 0020001b
+11-Jan-2019 21:05:26:(9) (       start),  JPEG system only operates on PAL cameras.
+11-Jan-2019 21:05:27:(6) (       start),  sync set to: 525
+11-Jan-2019 21:05:27:(9) (      stream),  Platform will not support streaming video
+11-Jan-2019 21:05:27:(9) (         ves),  Software options set are not compatable with encryption or context capture
+11-Jan-2019 21:05:27:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+11-Jan-2019 21:05:27:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+11-Jan-2019 21:05:27:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+11-Jan-2019 21:05:29:(6) (       start),  Terminal #0 starting
+11-Jan-2019 21:05:29:(9) (       alert),  Alert system not enabled
+11-Jan-2019 21:05:29:(6) (         ves),  WARNING: site specific location not set
+11-Jan-2019 21:08:01:(9) (      action),  relay_request: granting to: action
+11-Jan-2019 22:48:16:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:18:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:19:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:21:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:22:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:23:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:24:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:25:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:27:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:28:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:29:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:31:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:32:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:33:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:34:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 22:48:34:(9) (       watch),  watchdog: process check failure
+11-Jan-2019 22:48:37:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+11-Jan-2019 22:48:37:(9) (    pwr_fail),  power: immediate shutdown requested
+11-Jan-2019 22:49:08:(9) (       start),  EVENT LOG START UP
+11-Jan-2019 22:49:08:(6) (       start),  trimming 35 lines from event log history
+11-Jan-2019 22:49:08:(9) (       start),  integrity: 33 seconds since last update
+11-Jan-2019 22:49:08:(6) (    mon_temp),  no temperature sensor
+11-Jan-2019 22:49:08:(9) (       start),  access control list not present
+11-Jan-2019 22:49:08:(9) (       start),  software options: 0020001b
+11-Jan-2019 22:49:12:(9) (       start),  JPEG system only operates on PAL cameras.
+11-Jan-2019 22:49:13:(6) (       start),  sync set to: 525
+11-Jan-2019 22:49:13:(9) (      stream),  Platform will not support streaming video
+11-Jan-2019 22:49:13:(9) (         ves),  Software options set are not compatable with encryption or context capture
+11-Jan-2019 22:49:13:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+11-Jan-2019 22:49:13:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+11-Jan-2019 22:49:13:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+11-Jan-2019 22:49:15:(6) (       start),  Terminal #0 starting
+11-Jan-2019 22:49:15:(9) (       alert),  Alert system not enabled
+11-Jan-2019 22:49:15:(6) (         ves),  WARNING: site specific location not set
+11-Jan-2019 22:51:47:(9) (      action),  relay_request: granting to: action
+11-Jan-2019 23:14:22:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:23:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:24:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:25:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:27:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:28:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:29:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:30:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:32:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:33:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:34:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:35:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:37:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:38:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:39:(9) (       watch),  watch: time out on process: ves_tx(1)
+11-Jan-2019 23:14:39:(9) (       watch),  watchdog: process check failure
+11-Jan-2019 23:14:42:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+11-Jan-2019 23:14:42:(9) (    pwr_fail),  power: immediate shutdown requested
+11-Jan-2019 23:15:13:(9) (       start),  EVENT LOG START UP
+11-Jan-2019 23:15:13:(6) (       start),  trimming 35 lines from event log history
+11-Jan-2019 23:15:13:(9) (       start),  integrity: 33 seconds since last update
+11-Jan-2019 23:15:13:(6) (    mon_temp),  no temperature sensor
+11-Jan-2019 23:15:13:(9) (       start),  access control list not present
+11-Jan-2019 23:15:13:(9) (       start),  software options: 0020001b
+11-Jan-2019 23:15:17:(9) (       start),  JPEG system only operates on PAL cameras.
+11-Jan-2019 23:15:18:(6) (       start),  sync set to: 525
+11-Jan-2019 23:15:18:(9) (      stream),  Platform will not support streaming video
+11-Jan-2019 23:15:18:(9) (         ves),  Software options set are not compatable with encryption or context capture
+11-Jan-2019 23:15:18:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+11-Jan-2019 23:15:18:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+11-Jan-2019 23:15:18:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+11-Jan-2019 23:15:20:(6) (       start),  Terminal #0 starting
+11-Jan-2019 23:15:20:(9) (       alert),  Alert system not enabled
+11-Jan-2019 23:15:20:(6) (         ves),  WARNING: site specific location not set
+11-Jan-2019 23:17:52:(9) (      action),  relay_request: granting to: action
+11-Jan-2019 23:42:52:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:42:53:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:42:54:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:42:55:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:42:57:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:42:58:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:42:59:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:00:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:02:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:03:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:04:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:05:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:06:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:08:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:09:(9) (       watch),  watch: time out on process: ves_image(3)
+11-Jan-2019 23:43:09:(9) (       watch),  watchdog: process check failure
+11-Jan-2019 23:43:12:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+11-Jan-2019 23:43:12:(9) (    pwr_fail),  power: immediate shutdown requested
+11-Jan-2019 23:43:42:(9) (       start),  EVENT LOG START UP
+11-Jan-2019 23:43:42:(6) (       start),  trimming 35 lines from event log history
+11-Jan-2019 23:43:42:(9) (       start),  integrity: 35 seconds since last update
+11-Jan-2019 23:43:42:(6) (    mon_temp),  no temperature sensor
+11-Jan-2019 23:43:42:(9) (       start),  access control list not present
+11-Jan-2019 23:43:42:(9) (       start),  software options: 0020001b
+11-Jan-2019 23:43:46:(9) (       start),  JPEG system only operates on PAL cameras.
+11-Jan-2019 23:43:47:(6) (       start),  sync set to: 525
+11-Jan-2019 23:43:47:(9) (      stream),  Platform will not support streaming video
+11-Jan-2019 23:43:47:(9) (         ves),  Software options set are not compatable with encryption or context capture
+11-Jan-2019 23:43:47:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+11-Jan-2019 23:43:47:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+11-Jan-2019 23:43:47:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+11-Jan-2019 23:43:49:(6) (       start),  Terminal #0 starting
+11-Jan-2019 23:43:49:(9) (       alert),  Alert system not enabled
+11-Jan-2019 23:43:49:(6) (         ves),  WARNING: site specific location not set
+11-Jan-2019 23:46:21:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 00:10:34:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:36:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:36:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:38:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:39:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:41:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:41:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:43:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:44:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:46:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:46:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:48:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:49:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:51:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:52:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:10:52:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 00:10:55:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 00:10:55:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 00:11:26:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 00:11:26:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 00:11:26:(9) (       start),  integrity: 30 seconds since last update
+12-Jan-2019 00:11:26:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 00:11:26:(9) (       start),  access control list not present
+12-Jan-2019 00:11:26:(9) (       start),  software options: 0020001b
+12-Jan-2019 00:11:30:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 00:11:31:(6) (       start),  sync set to: 525
+12-Jan-2019 00:11:31:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 00:11:31:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 00:11:31:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 00:11:31:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 00:11:31:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 00:11:33:(6) (       start),  Terminal #0 starting
+12-Jan-2019 00:11:33:(9) (       alert),  Alert system not enabled
+12-Jan-2019 00:11:33:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 00:14:05:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 00:47:11:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:12:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:13:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:15:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:16:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:17:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:18:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:20:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:21:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:22:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:23:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:24:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:25:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:27:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:28:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 00:47:28:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 00:47:31:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 00:47:31:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 00:48:02:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 00:48:02:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 00:48:02:(9) (       start),  integrity: 31 seconds since last update
+12-Jan-2019 00:48:02:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 00:48:02:(9) (       start),  access control list not present
+12-Jan-2019 00:48:02:(9) (       start),  software options: 0020001b
+12-Jan-2019 00:48:06:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 00:48:07:(6) (       start),  sync set to: 525
+12-Jan-2019 00:48:07:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 00:48:07:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 00:48:07:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 00:48:07:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 00:48:07:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 00:48:09:(6) (       start),  Terminal #0 starting
+12-Jan-2019 00:48:09:(9) (       alert),  Alert system not enabled
+12-Jan-2019 00:48:09:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 00:50:41:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 01:14:49:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:14:51:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:14:52:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:14:53:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:14:54:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:14:56:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:14:57:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:14:58:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:14:59:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:15:01:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:15:02:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:15:03:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:15:04:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:15:06:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:15:07:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:15:07:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 01:15:10:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 01:15:10:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 01:15:40:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 01:15:40:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 01:15:40:(9) (       start),  integrity: 31 seconds since last update
+12-Jan-2019 01:15:40:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 01:15:40:(9) (       start),  access control list not present
+12-Jan-2019 01:15:40:(9) (       start),  software options: 0020001b
+12-Jan-2019 01:15:44:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 01:15:45:(6) (       start),  sync set to: 525
+12-Jan-2019 01:15:45:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 01:15:45:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 01:15:45:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 01:15:45:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 01:15:45:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 01:15:47:(6) (       start),  Terminal #0 starting
+12-Jan-2019 01:15:47:(9) (       alert),  Alert system not enabled
+12-Jan-2019 01:15:47:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 01:18:19:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 01:39:42:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:44:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:45:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:46:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:47:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:49:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:50:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:51:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:52:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:54:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:55:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:56:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:57:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:39:59:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:40:00:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 01:40:00:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 01:40:03:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 01:40:03:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 01:40:34:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 01:40:34:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 01:40:34:(9) (       start),  integrity: 34 seconds since last update
+12-Jan-2019 01:40:34:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 01:40:34:(9) (       start),  access control list not present
+12-Jan-2019 01:40:34:(9) (       start),  software options: 0020001b
+12-Jan-2019 01:40:38:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 01:40:39:(6) (       start),  sync set to: 525
+12-Jan-2019 01:40:39:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 01:40:39:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 01:40:39:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 01:40:39:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 01:40:39:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 01:40:41:(6) (       start),  Terminal #0 starting
+12-Jan-2019 01:40:41:(9) (       alert),  Alert system not enabled
+12-Jan-2019 01:40:41:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 01:43:13:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 02:01:34:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:35:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:36:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:38:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:39:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:40:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:41:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:43:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:44:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:45:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:46:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:48:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:49:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:50:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:51:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:01:51:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 02:01:54:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 02:01:54:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 02:02:25:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 02:02:25:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 02:02:25:(9) (       start),  integrity: 32 seconds since last update
+12-Jan-2019 02:02:25:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 02:02:25:(9) (       start),  access control list not present
+12-Jan-2019 02:02:25:(9) (       start),  software options: 0020001b
+12-Jan-2019 02:02:29:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 02:02:30:(6) (       start),  sync set to: 525
+12-Jan-2019 02:02:30:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 02:02:30:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 02:02:30:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 02:02:30:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 02:02:30:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 02:02:32:(6) (       start),  Terminal #0 starting
+12-Jan-2019 02:02:32:(9) (       alert),  Alert system not enabled
+12-Jan-2019 02:02:32:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 02:05:04:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 02:33:40:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:41:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:42:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:44:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:45:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:46:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:47:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:49:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:50:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:51:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:52:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:54:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:55:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:56:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:57:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 02:33:57:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 02:34:00:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 02:34:00:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 02:34:31:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 02:34:31:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 02:34:31:(9) (       start),  integrity: 30 seconds since last update
+12-Jan-2019 02:34:31:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 02:34:31:(9) (       start),  access control list not present
+12-Jan-2019 02:34:31:(9) (       start),  software options: 0020001b
+12-Jan-2019 02:34:35:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 02:34:36:(6) (       start),  sync set to: 525
+12-Jan-2019 02:34:36:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 02:34:36:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 02:34:36:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 02:34:36:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 02:34:36:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 02:34:38:(6) (       start),  Terminal #0 starting
+12-Jan-2019 02:34:38:(9) (       alert),  Alert system not enabled
+12-Jan-2019 02:34:38:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 02:37:10:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 03:09:42:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:43:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:45:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:46:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:47:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:48:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:50:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:51:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:52:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:53:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:55:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:56:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:57:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:09:58:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:10:00:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:10:00:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 03:10:03:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 03:10:03:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 03:10:33:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 03:10:33:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 03:10:33:(9) (       start),  integrity: 31 seconds since last update
+12-Jan-2019 03:10:33:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 03:10:33:(9) (       start),  access control list not present
+12-Jan-2019 03:10:33:(9) (       start),  software options: 0020001b
+12-Jan-2019 03:10:37:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 03:10:38:(6) (       start),  sync set to: 525
+12-Jan-2019 03:10:38:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 03:10:38:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 03:10:38:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 03:10:38:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 03:10:38:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 03:10:40:(6) (       start),  Terminal #0 starting
+12-Jan-2019 03:10:40:(9) (       alert),  Alert system not enabled
+12-Jan-2019 03:10:40:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 03:13:12:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 03:41:28:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:29:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:30:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:32:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:33:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:34:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:35:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:37:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:38:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:39:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:40:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:42:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:43:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:44:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:45:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 03:41:45:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 03:41:48:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 03:41:48:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 03:42:19:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 03:42:19:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 03:42:19:(9) (       start),  integrity: 33 seconds since last update
+12-Jan-2019 03:42:19:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 03:42:19:(9) (       start),  access control list not present
+12-Jan-2019 03:42:19:(9) (       start),  software options: 0020001b
+12-Jan-2019 03:42:23:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 03:42:24:(6) (       start),  sync set to: 525
+12-Jan-2019 03:42:24:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 03:42:24:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 03:42:24:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 03:42:24:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 03:42:24:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 03:42:26:(6) (       start),  Terminal #0 starting
+12-Jan-2019 03:42:26:(9) (       alert),  Alert system not enabled
+12-Jan-2019 03:42:26:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 03:44:58:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 04:14:59:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:00:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:01:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:03:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:04:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:05:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:06:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:08:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:09:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:10:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:11:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:13:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:14:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:15:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:16:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:15:16:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 04:15:19:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 04:15:19:(9) (    pwr_fail),  power: immediate shutdown requested
+12-Jan-2019 04:15:50:(9) (       start),  EVENT LOG START UP
+12-Jan-2019 04:15:50:(6) (       start),  trimming 35 lines from event log history
+12-Jan-2019 04:15:50:(9) (       start),  integrity: 33 seconds since last update
+12-Jan-2019 04:15:50:(6) (    mon_temp),  no temperature sensor
+12-Jan-2019 04:15:50:(9) (       start),  access control list not present
+12-Jan-2019 04:15:50:(9) (       start),  software options: 0020001b
+12-Jan-2019 04:15:54:(9) (       start),  JPEG system only operates on PAL cameras.
+12-Jan-2019 04:15:55:(6) (       start),  sync set to: 525
+12-Jan-2019 04:15:55:(9) (      stream),  Platform will not support streaming video
+12-Jan-2019 04:15:55:(9) (         ves),  Software options set are not compatable with encryption or context capture
+12-Jan-2019 04:15:55:(9) (  vid_events),  VIDEO: P372 twin video input process starting
+12-Jan-2019 04:15:55:(6) (       start),  set default gateway to: 192.168.13.31 on interface sm0:
+12-Jan-2019 04:15:55:(9) (    mbip_mon),  mbip: threshold 0x3e 0248
+12-Jan-2019 04:15:57:(6) (       start),  Terminal #0 starting
+12-Jan-2019 04:15:57:(9) (       alert),  Alert system not enabled
+12-Jan-2019 04:15:57:(6) (         ves),  WARNING: site specific location not set
+12-Jan-2019 04:18:29:(9) (      action),  relay_request: granting to: action
+12-Jan-2019 04:52:35:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:36:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:37:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:39:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:40:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:41:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:42:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:44:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:45:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:46:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:47:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:47:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:47:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:47:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:47:(9) (       watch),  watch: time out on process: ves_image(3)
+12-Jan-2019 04:52:47:(9) (       watch),  watchdog: process check failure
+12-Jan-2019 04:52:47:(6) (       watch),  cmd_reboot request in 0 seconds from watch
+12-Jan-2019 04:52:47:(9) (    pwr_fail),  power: immediate shutdown requested
